@@ -10,7 +10,7 @@
 
 ***
 <div align="center">
-   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
+   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO </h3>
 </div>
 
 - 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
